@@ -6,4 +6,4 @@
    - Feature 2
    - Feature 3
   
-  &copy: wiley 2023
+&copy; wiley 2023
